@@ -1,5 +1,5 @@
 console.log('-----------------------------');
-console.log('classes example');
+console.log('class example');
 console.log('-----------------------------');
 
 class Car {

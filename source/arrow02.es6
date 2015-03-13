@@ -46,9 +46,13 @@ var getTempItem = function(id) {
     };
 };
 
+let values = [1, 2, 3];
 
 var result = values.sort(function(a, b) {
     return a - b;
 });
+
 // effectively equivalent to:
 var result = values.sort((a, b) => a - b);
+
+console.log(result);

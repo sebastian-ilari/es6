@@ -9,7 +9,7 @@ var _createClass = (function () { function defineProperties(target, props) { for
 var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
 
 console.log("-----------------------------");
-console.log("classes example");
+console.log("class example");
 console.log("-----------------------------");
 
 var Car = (function () {
