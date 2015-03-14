@@ -14,7 +14,7 @@ function square(x) {
 
 ;
 
-var object = {
+var anObject = {
     name: "Eli"
 };
-exports.object = object;
+exports.anObject = anObject;

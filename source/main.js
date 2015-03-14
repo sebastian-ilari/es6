@@ -2,8 +2,8 @@ console.log('-----------------------------');
 console.log('import example');
 console.log('-----------------------------');
 
-import { pi, square, object } from 'export.js';
+import { pi, square, anObject } from './module.js';
 
 console.log(pi);
 console.log(square(3));
-console.log(object.name);
+console.log(anObject.name);

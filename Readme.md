@@ -1,17 +1,13 @@
-### Babel install:
+### How to run the examples
 
 ```
-rm -fr /root/tmp
-sudo npm install -g babel --unsafe-perm
+http-server
 ```
 
-### Transform script:
+Go to http://localhost:8080/runner.html
 
-```
-babel -d transpiled/ source/
-```
 
-### TODOs:
+### TODOs
 
 1. Get tips from the video
 https://skillsmatter.com/skillscasts/6284-looking-forward-to-ecmascript-6
@@ -25,6 +21,6 @@ http://www.wintellect.com/devcenter/nstieglitz/5-great-features-in-es6-harmony
     + Create a class with properties to print the results of each test?
 
 
-###Links:
+### Links
 
 http://mammal.io/articles/using-es6-today/
